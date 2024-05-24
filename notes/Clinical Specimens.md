@@ -4,7 +4,6 @@ Type:
   - given data
 Categorization:
   - laboratory data
-
 ---
 [@worldhealthorganizationwho2008, p. 11]
 

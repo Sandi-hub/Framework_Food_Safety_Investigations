@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="Electron" modified="2024-05-23T14:16:06.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" version="24.4.6" etag="RvqsASPkAp5T2QpOV4nk" type="device" pages="3">
+<mxfile host="Electron" modified="2024-05-24T13:20:19.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.6 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="EbxEWMvCF-TKXcEXKzdu" version="24.4.6" type="device" pages="3">
   <diagram name="2024_05_23" id="bRnHtGkMoiRma9ZENz-W">
     <mxGraphModel dx="-54162" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
             <mxPoint x="56620" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Contamianted Food item&lt;/span&gt;&lt;/font&gt;" food_item="Testijadfoijsfdisjdfio&#xa;sdfsdfsdf" link="obsidian://open?vault=Sandi&#39;s%20Vault&amp;file=Food%20Item" linkTarget="_blank" id="78lYfsZbrFG4UcwIc-tl-37">
+        <object label="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Contamianted Food item&lt;/span&gt;&lt;/font&gt;" food_item="Testijadfoijsfdisjdfio&#xa;sdfsdfsdf" link="obsidian://open?vault=notes&amp;file=Food%20Item" linkTarget="_blank" id="78lYfsZbrFG4UcwIc-tl-37">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;glass=0;shadow=0;fontStyle=1;fontSize=6;labelBackgroundColor=none;fontColor=#46495D;opacity=90;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
             <mxGeometry x="57526" y="497" width="342" height="27" as="geometry" />
           </mxCell>
@@ -250,15 +250,15 @@
         <mxCell id="78lYfsZbrFG4UcwIc-tl-44" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b style=&quot;font-size: 6px;&quot;&gt;Outbreak&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;labelBackgroundColor=none;fontSize=6;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
           <mxGeometry x="56331" y="253" width="387" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Person / Case&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
-          <mxGeometry x="56358" y="298" width="360" height="27" as="geometry" />
+        <mxCell id="78lYfsZbrFG4UcwIc-tl-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Person / Case&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;rotation=-90;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
+          <mxGeometry x="56300" y="379" width="220" height="27" as="geometry" />
         </mxCell>
-        <UserObject label="food consumption history" link="obsidian://open?vault=Sandi&#39;s%20Vault&amp;file=Food%20Consumption%20History%20informed%20by%20interviews" id="78lYfsZbrFG4UcwIc-tl-46">
+        <UserObject label="Food Consumption History" link="obsidian://open?vault=Sandi&#39;s%20Vault&amp;file=Food%20Consumption%20History%20informed%20by%20interviews" id="78lYfsZbrFG4UcwIc-tl-46">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
             <mxGeometry x="56466" y="367" width="252" height="27" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-47" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Places visited where food was consumed&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
+        <mxCell id="78lYfsZbrFG4UcwIc-tl-47" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Places Visited&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;where food was consumed&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
           <mxGeometry x="56466" y="406" width="252" height="27" as="geometry" />
         </mxCell>
         <mxCell id="78lYfsZbrFG4UcwIc-tl-48" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;ul style=&quot;font-size: 6px;&quot;&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 6px;&quot;&gt;Travel history&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;glass=0;shadow=0;align=left;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
@@ -277,12 +277,12 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 6px;&quot;&gt;Clinical Specimens&lt;/font&gt;" link="../notes/Clinical Specimens.md" id="78lYfsZbrFG4UcwIc-tl-52">
+        <UserObject label="&lt;font style=&quot;font-size: 6px;&quot;&gt;Clinical Specimens&lt;/font&gt;" link="obsidian://open?vault=notes&amp;file=Clinical%20Specimens" id="78lYfsZbrFG4UcwIc-tl-52">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
             <mxGeometry x="56430" y="583" width="288" height="27" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-53" value="Consumption commonalities&amp;nbsp;&lt;div style=&quot;font-size: 6px;&quot;&gt;(Item &amp;amp; Source)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=6;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
+        <mxCell id="78lYfsZbrFG4UcwIc-tl-53" value="Consumption Commonalities&amp;nbsp;&lt;div style=&quot;font-size: 6px;&quot;&gt;(Item &amp;amp; Source)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=6;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
           <mxGeometry x="56973" y="208" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="78lYfsZbrFG4UcwIc-tl-54" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;strokeWidth=0.5;endSize=3;" parent="78lYfsZbrFG4UcwIc-tl-1" source="78lYfsZbrFG4UcwIc-tl-56" target="78lYfsZbrFG4UcwIc-tl-53" edge="1">
@@ -297,27 +297,24 @@
             <mxPoint x="56997" y="245.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-56" value="1" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;perimeterSpacing=0;strokeWidth=3;shadow=0;opacity=90;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;spacingTop=0;spacing=0;horizontal=1;verticalAlign=middle;rotation=0;spacingBottom=1;fontSize=6;fillColor=none;fontColor=#703281;strokeColor=#FFFFFF;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
-          <mxGeometry x="56847" y="280" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-57" value="Risk Factor Information from interviews" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
+        <UserObject label="1" link="obsidian://open?vault=notes&amp;file=1%20(Risk%20Factors%20-%20Consumption%20Commonalities)" linkTarget="_blank" id="78lYfsZbrFG4UcwIc-tl-56">
+          <mxCell style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;perimeterSpacing=0;strokeWidth=3;shadow=0;opacity=90;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;spacingTop=0;spacing=0;horizontal=1;verticalAlign=middle;rotation=0;spacingBottom=1;fontSize=6;fillColor=none;fontColor=#703281;strokeColor=#FFFFFF;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
+            <mxGeometry x="56847" y="280" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="78lYfsZbrFG4UcwIc-tl-57" value="Risk Factor Information&amp;nbsp;&lt;div&gt;from interviews&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;shadow=0;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
           <mxGeometry x="56430" y="332" width="288" height="27" as="geometry" />
         </mxCell>
         <mxCell id="78lYfsZbrFG4UcwIc-tl-58" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;ul style=&quot;font-size: 6px;&quot;&gt;&lt;li style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 6px;&quot;&gt;recent group gatherings, visitors, social events&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;glass=0;shadow=0;align=left;fontSize=6;labelBackgroundColor=none;" parent="78lYfsZbrFG4UcwIc-tl-1" vertex="1">
           <mxGeometry x="56484" y="482" width="234" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="78lYfsZbrFG4UcwIc-tl-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;strokeWidth=0.5;endSize=3;" parent="78lYfsZbrFG4UcwIc-tl-1" source="78lYfsZbrFG4UcwIc-tl-61" target="78lYfsZbrFG4UcwIc-tl-57" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="56939" y="346" />
-              <mxPoint x="56730" y="346" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="78lYfsZbrFG4UcwIc-tl-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;strokeWidth=0.5;endSize=3;edgeStyle=orthogonalEdgeStyle;" parent="78lYfsZbrFG4UcwIc-tl-1" source="78lYfsZbrFG4UcwIc-tl-61" target="78lYfsZbrFG4UcwIc-tl-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="2" link="obsidian://open?vault=Sandi&#39;s%20Vault&amp;file=2%20(Pathogen%20-%20Interviews)" id="78lYfsZbrFG4UcwIc-tl-60">
           <mxCell style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#703281;fontSize=6;" parent="78lYfsZbrFG4UcwIc-tl-59" vertex="1" connectable="0">
             <mxGeometry x="-0.2516" y="1" relative="1" as="geometry">
-              <mxPoint x="-52" y="-29" as="offset" />
+              <mxPoint x="1" y="-3" as="offset" />
             </mxGeometry>
           </mxCell>
         </UserObject>
