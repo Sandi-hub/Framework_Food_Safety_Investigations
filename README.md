@@ -33,3 +33,7 @@ Wikilinks are used extensively in this repository for easy navigation and linkin
 1. Open Obsidian and go to Settings.
 2. Navigate to Files & Links.
 3. Ensure "Use Wikilinks" is enabled.
+
+### 2.4. Use the Minimal Theme in Obsidian
+
+For the best experience, it is recommended to use the Minimal theme in Obsidian because the alternate checkbox styles are used for the advantages of and limitations, and are otherwise only visible as checked checkboxes.
