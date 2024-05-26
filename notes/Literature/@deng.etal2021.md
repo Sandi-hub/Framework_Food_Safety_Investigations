@@ -18,12 +18,12 @@ Volume: 12
 Pages: 513-538
 DOI: 10.1146/annurev-food-071720-024112
 related: 
-- "[[zhang.etal2019]]"
-- "[[norstrom.etal2015]]"
-- "[[schlaich.etal2020]]"
-- "[[scallan.etal2011]]"
-- "[[tao.etal2020]]"
-- "[[kaufman.etal2014]]"
+- "[[@zhang.etal2019]]"
+- "[[@norstrom.etal2015]]"
+- "[[@schlaich.etal2020]]"
+- "[[@scallan.etal2011]]"
+- "[[@tao.etal2020]]"
+- "[[@kaufman.etal2014]]"
 summary: "The article not only discusses the emerging applications of machine learning in food safety but also offers a comprehensive overview of machine learning techniques in general. It highlights the potential of machine learning in leveraging large datasets to enhance food safety, particularly in identifying and mitigating foodborne pathogens and incidents. The paper explores the use of foodborne pathogen genomes and novel data streams, including text, transactional, and trade data, in food safety applications. Key areas discussed include the prediction of antibiotic resistance, source attribution of pathogens, and foodborne outbreak detection and risk assessment."
 ---
 **[Emerging Applications of Machine Learning in Food Safety](zotero://select/library/items/35U6EBBW)**
@@ -209,4 +209,4 @@ Chen et al. 2016, [@kate.etal2014a]
 > ([page 20](zotero://open-pdf/library/items/35U6EBBW?page=20&annotation=2FP6VXQK))
 
 
-%% Import Date: 2024-05-24T14:07:23.323+02:00 %%
+%% Import Date: 2024-05-25T10:55:24.335+02:00 %%

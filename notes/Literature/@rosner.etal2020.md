@@ -21,7 +21,7 @@ Volume: 148
 Pages: e66
 DOI: 10.1017/S0950268820000564
 related: 
-- "[[zenner.etal2014]]"
+- "[[@zenner.etal2014]]"
 
 ---
 **[Population-based food consumption survey as an additional tool for foodborne outbreak investigations, Germany, 2017](zotero://select/library/items/GA3HGTE4)**
@@ -115,4 +115,4 @@ related:
 > ([page 9](zotero://open-pdf/library/items/GA3HGTE4?page=9&annotation=ZPP3YAES))
 
 
-%% Import Date: 2024-05-24T09:50:42.292+02:00 %%
+%% Import Date: 2024-05-25T10:57:07.328+02:00 %%

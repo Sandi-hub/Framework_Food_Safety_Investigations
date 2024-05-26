@@ -13,7 +13,7 @@ classification:
 
 - low infectious dose  (10–100 organisms) [@mikhail.etal2018]
 # Attribution to food
-- common STEC vehicles: ground beef, leafy greens and sprouts [@white.etal2021]
+- common STEC vehicles: ground beef, leafy greens and sprouts [[@white.etal2021]]
 - Most common sources are beef, vegetables, fruits, diary products [@foodandagricultureorganizationfao.worldhealthorganizationwho2018]
 # Transmission
 Transmission  occurs by 

@@ -2,7 +2,8 @@
 Type:
   - Entity
   - wanted data
-Categorization:
+Category: []
+Linked_to_Framework?: true
 ---
 ## Food Categorization Scheme Problem
 
@@ -11,7 +12,7 @@ Categorization:
 > - Numerous commodity classification schemes exist, each tailored for different categorization purposes.
 > - Identifying an effective system that sorts commodities based on their risk of sharing contamination causal factors requires extensive research
 
-> “For [[Source Attribution]] studies, it would be useful if harmonized food classification schemes (ontology) were used at the international level for the categorization/ typing of foods considered. This is complicated by the fact that for certain pathogens the specific source is more relevant (Campylobacter/poultry), while for others the consumption type is more relevant (Listeria/deli meat/RTE).” [@foodandagricultureorganizationfao.worldhealthorganizationwho2022]
+> “For [[Source Attribution Studies]] studies, it would be useful if harmonized food classification schemes (ontology) were used at the international level for the categorization/ typing of foods considered. This is complicated by the fact that for certain pathogens the specific source is more relevant (Campylobacter/poultry), while for others the consumption type is more relevant (Listeria/deli meat/RTE).” [@foodandagricultureorganizationfao.worldhealthorganizationwho2022]
 
 ### Existing Food Categorization Systems
  #### Framework by @painter.etal2009
@@ -19,7 +20,7 @@ Categorization:
 Foods are grouped into categories (aquatic animals, land animals, and plants) with further subdivisions, which are used for source attribution studies and policy-making
 ![[image-2-x52-y550.png|400]]
 
-👎 new processing subcategories for larger food categories were needed @richardson.etal2017
+- [c] new processing subcategories for larger food categories were needed @richardson.etal2017
 - for example, separate categories for shell eggs (FDA-regulated) and pasteurized egg products (USDA-regulated)
 - fruits and nuts were previously combined within a Fruits–Nuts category, but separate categories were needed. 
 - The scheme also did not further classify Poultry foods into Chicken, Turkey, and Other Poultry categories useful for USDA-FSIS regulatory purposes. 
@@ -38,7 +39,7 @@ Foods are grouped into categories (aquatic animals, land animals, and plants) wi
 
 #### EFSA FoodEx 2
 comprehensive food classification and description system designed to support various activities within EFSA, such as exposure assessment and harmonization of food consumption data across Europe
-[Nutrients | Free Full-Text | StandFood: Standardization of Foods Using a Semi-Automatic System for Classifying and Describing Foods According to FoodEx2 (mdpi.com)](https://www.mdpi.com/2072-6643/9/6/542#B2-nutrients-09-00542)
+[Eftimov et al., 2017](https://www.mdpi.com/2072-6643/9/6/542)
 
 
 

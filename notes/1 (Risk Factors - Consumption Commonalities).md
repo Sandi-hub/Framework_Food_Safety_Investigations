@@ -1,7 +1,8 @@
 ---
 Type:
   - Relation
-Categorization:
+Category: []
+Linked_to_Framework?: true
 ---
 This is the standard way. The goal is to find some evidence for a common exposure, e.g. consumption of a certain food item in a defined time period before disease onset. 
 

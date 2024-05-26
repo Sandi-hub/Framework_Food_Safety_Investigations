@@ -1,3 +1,12 @@
+---
+Type:
+  - Relation
+Category: []
+aliases:
+  - case-control study
+  - case-control studies
+Linked_to_Framework?: true
+---
 **Definition**: observational research method where two groups differing in outcome (disease presence vs. absence) are compared to explore a potential causal relationships between suspected factors and those outcomes. 
 selecting cases (individuals who have the disease) and controls (individuals without the disease) and comparing their exposures to identify potential risk factors.
 **Purpose**:  assesses the association between specific exposures and outcomes, typically in the context of disease occurrence.
@@ -20,7 +29,7 @@ selecting cases (individuals who have the disease) and controls (individuals wit
 
 # Limitations of using Logistic Regression
 
-👎 **Methodological limitations of using logistic regression**
+- [c] **Methodological limitations of using logistic regression**
 [@gu.etal2015]
  - **Mixed and conditional causality:** reflect the complexities in understanding disease causes in epidemiological studies
 	- mixed causality: different risk factors can interact and influence each other
@@ -35,4 +44,4 @@ selecting cases (individuals who have the disease) and controls (individuals wit
 - **Missing Data:** Non-response to certain questions can lead to biased estimates of relationships between exposures and disease.
 
 # New Methods
- → [@gu.etal2015]new method to compare the exposure. Instead of using logistic regression using a random forest 
+ → [@gu.etal2015] new method to compare the exposure. Instead of using logistic regression using a random forest 

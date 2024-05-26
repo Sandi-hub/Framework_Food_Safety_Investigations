@@ -10,7 +10,7 @@ classification:
 - rod-shaped bacteria 
 - Non-typhoidal Salmonella (NTS) and typhoidal differentiation is important
 - [@centersfordiseasecontrolandpreventioncdc2013]
-- 
+
 # Species
 2 [[Microbial Taxonomy#Species|species]] [@cardimfalcao.etal2024]
 ## *Salmonella enterica*

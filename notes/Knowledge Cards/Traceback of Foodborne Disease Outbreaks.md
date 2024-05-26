@@ -19,7 +19,7 @@ Goal of investigation: identify the food item that caused the outbreak in a time
 	- When the illnesses occurred
 	- Symptoms of the illness
 
-👎 While DNA fingerprinting is a vita step it is time-intensive
+- [c] While DNA fingerprinting is a vita step it is time-intensive
       secondary source: [@horn] citing *Wilkins, M., Julian, E., Kutzko, K., & Rockhill, S. (2015). Outbreak Investigations (Epidemiology). Regulatory Foundations for the Food Protection Professional, 105.*
 
 

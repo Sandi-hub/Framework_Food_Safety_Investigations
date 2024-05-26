@@ -96,8 +96,8 @@ The same principle can be applied to bacterial [[plasmids]], with enzyme selecti
 - **Comparison**: For accurate strain comparison and source attribution, protocols must be standardized, specifying the choice of enzymes and electrophoresis conditions
 
 ### Advantages and Limitations
-👍 PFGE is robust and reproducible across different labs
-👎 PFGE may fall short in distinguishing between very closely related strains, such as those from the same species and individual with minimal genetic evolution
+- [p] PFGE is robust and reproducible across different labs
+- [c] PFGE may fall short in distinguishing between very closely related strains, such as those from the same species and individual with minimal genetic evolution
 
 # Methods Based on the Analysis of Genomic Sequences 
 Sequencing: determining the exact order of the nucleotides (the building blocks of DNA and RNA) in a specific region of DNA or RNA

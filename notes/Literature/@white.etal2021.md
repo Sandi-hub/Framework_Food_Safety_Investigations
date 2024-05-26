@@ -23,12 +23,12 @@ Issue: 10
 Pages: 2188-2197
 DOI: 10.1093/aje/kwab118
 related: 
-- "[[ferguson.etal2005]]"
-- "[[mba-jonas.etal2018]]"
-- "[[white.etal2016]]"
-- "[[tauxe1997]]"
-- "[[friedman.etal2004]]"
-- "[[jackson.etal2013]]"
+- "[[@ferguson.etal2005]]"
+- "[[@mba-jonas.etal2018]]"
+- "[[@white.etal2016]]"
+- "[[@tauxe1997]]"
+- "[[@friedman.etal2004]]"
+- "[[@jackson.etal2013]]"
 summary: "The paper presents a framework for generating hypothesis about the food vector responsible for a foodborne disease outbreak. They focus on 3 sources of information: known sources of the pathogen causing illness, descriptive data of cases associated with the outbreak and case exposure assessment."
 ---
 **[Hypothesis Generation During Foodborne-Illness Outbreak Investigations](zotero://select/library/items/ELULFF76)**
@@ -49,7 +49,7 @@ Known sources of the pathogen causing illness
 - Pathogens with **animal** reservoirs 
   e.g. Shiga-toxin-producing Escherichia coli ([[Escherichia coli|STEC]]), nontyphoidal [[Salmonella]] and [[Campylobacter]] are often associated with food sources of animal origin or food that have been contaminated by animal feces during production (e.g. fresh produce)
 - Pathogens with **environmental** reservoirs 
-  e.g. Vibrio spp., [[Listeria]] monocytogenes, Clostridium botulinum are commonly associated with food that can become contaminated by soil or water
+  e.g. Vibrio spp., [[Listeria]] monocytogenes, [[Clostridium]] botulinum are commonly associated with food that can become contaminated by soil or water
 
 **Tools that help identify know pathogen sources:** 
 - [@centersfordiseasecontrolandpreventioncdc2022c] - NORS
@@ -152,7 +152,7 @@ outbreak size and distribution can suggest certain food-pathogen pairs
 
 # Annotations
 > [!NOTE]- Annotation colors
-> ![[Annotation Colors]]
+> ![[../Literature/Annotation Colors]]
 
 <span style="border-bottom: 2px solid #ffd400;">Quote</span>
 > In this review, we present a framework for hypothesis generation focusing on 3 primary sources of information, typically used in combination: 1) known sources of the pathogen causing illness; 2) person, place, and time characteristics of cases associated with the outbreak (descriptive data); and 3) case exposure assessment.
@@ -313,4 +313,4 @@ outbreak size and distribution can suggest certain food-pathogen pairs
 - *Comment*: WGS can be used to make a better outbreak definition in phase 1 but also for trace back as outlined in the comment before
 
 
-%% Import Date: 2024-05-24T08:33:01.264+02:00 %%
+%% Import Date: 2024-05-25T10:57:07.384+02:00 %%

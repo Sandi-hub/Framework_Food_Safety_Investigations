@@ -1,5 +1,10 @@
-> [!Attention] Use of Source Attribution in outbreak investigations
-> It seems like most of the papers talk about food safety interventions in the sense of educating the population and or testing etc. after they found in which food the pathogen is found mostly. I did not see any publication saying how to concretely use the attribution for outbreak investigations
+---
+Type:
+  - Entity
+  - pre-collectable data
+Category: []
+Linked_to_Framework?: true
+---
 
  > "As approaches in this area ([[#Novel methods of source attribution]]) mature, they may be applied to predict the source of food-borne disease outbreaks."
 > [@wheeler2019]
@@ -39,7 +44,7 @@ For pathogens of animal origin, the animals are usually defined as reservoirs (i
 - living in a farm 
 
 # Methods for Source Attribution 
-- Methods used in source attribution / to estimate the relative contribution of different food sources to human foodborne disease [@pires.etal2014]
+- Methods used in source attribution / to estimate the relative contribution of different food sources to human foodborne disease [[@pires.etal2014]]
 
 **Method Choice**
 - Choice of method often driven by the type and quality of available data [@cardimfalcao.etal2024]
@@ -73,9 +78,9 @@ Source-Specificity: identify strains that are source specific / identify strains
 - Example: The Kentucky serotype of [[Salmonella]] is almost exclusively found in poultry manure, so any case found with the Kentucky strain is very likely to have originated from this reservoir 
   (not yet confirmed, but primary sources are supposed to be [@dunn.etal2022] and [@murray.etal2023])
 
-⚠️ methods attributes cases to a priori chosen sources 
+- [!] methods attributes cases to a priori chosen sources 
   → all main potential sources must be included in the analysis with a representative and heterogeneous distribution of subtypes among these sources 
-⚠️ travel-related cases need to be identified and excluded as they are not due to exposure to domestically available foods 
+- [!] travel-related cases need to be identified and excluded as they are not due to exposure to domestically available foods 
 
 
 > [!NOTE] Subtype definition
@@ -258,17 +263,17 @@ Human cases of foodborne disease may occur sporadically (individual cases or sma
 - **Goal**: Identify risk factors for illness, e.g. sources or behaviors
 #### Case-Control Study
 - used more often for attribution of sporadic foodborne infection than [[#Cohort Study|cohort studies]]
-👎 Subject to several types of bias: classification bias, recall bias, selection bias
+- [c] Subject to several types of bias: classification bias, recall bias, selection bias
 	- Selection bias: the group of patients should be representative of all cases occurring in the population & the control group should be at risk of acquiring the disease upon exposure (i.e. originate from a population with the same characteristics as the one where the patients come from)
 		- How to circumvent: 
 			- match cases and controls by age, gender, place of residence etc. to control for potential confounding effects 
 			- select several controls per case to increase statistical power, but also costs 
 	*Source: Fullerton, K. E., Scallan, E., Kirk, M. D., Mahon, B. E., Angulo, F. J., de Valk, H., et al. (2012). Case-control studies of sporadic enteric infections: a review and discussion of studies conducted internationally from 1990 to 2009. Foodborne Pathog. Dis. 9, 281–292. doi: 10.1089/fpd.2011.1065*
-👎 can only trace back to the sources of human infections up to the point of exposure (e.g. foods consumed) which may not correspond to the original reservoirs because of cross-contamination or alternative transmission routes [@mughini-gras.etal2019]
+- [c] can only trace back to the sources of human infections up to the point of exposure (e.g. foods consumed) which may not correspond to the original reservoirs because of cross-contamination or alternative transmission routes [@mughini-gras.etal2019]
 	→ **source-assigned case control study**: combine methods based on microbial subtyping and case-control data to reconstruct the underlying transmission pathway from a given reservoir up to the point of exposure / risk factor 
 	- first attribute human cases included in a case-control study to sources using the microbial subtyping approach to determine their likely sources and then compare the exposures of the attributed cases with those of the controls to identify source-specific risk factors for infection & infer the underlying transmission way 
-👍 Useful in pinpointing specific sources: For example the link between consumption of 'cantaloupe' melons and [[Listeria]] monocytogenes in the USA was first suggested by a case-control study of sporadic cases [@varma.etal2007]
-👍 particularly useful for attribution of diseases that are sporadic in nature, such as [[Pathogens/Campylobacter|campylobacteriosis]]
+- [p] Useful in pinpointing specific sources: For example the link between consumption of 'cantaloupe' melons and [[Listeria]] monocytogenes in the USA was first suggested by a case-control study of sporadic cases [@varma.etal2007]
+- [p] particularly useful for attribution of diseases that are sporadic in nature, such as [[Pathogens/Campylobacter|campylobacteriosis]]
 
 **Method**
 compare the frequency of exposure to a given (risk) factor in a group of cases to the frequency of exposure in a control group
@@ -291,8 +296,8 @@ compare the frequency of case occurrence among those exposed to a given risk fac
 - **Analysis of data from outbreak investigations:** quantify the relative contribution of different food to outbreak illnesses
 - Result: proportion of outbreaks (or outbreak cases) attributable to each source 
 
-👍 may cover a wide range of food sources and pathogens  
-👎Outbreaks usually provide a partial picture of all infections occurring in the population [@pires.etal2009]
+- [p] may cover a wide range of food sources and pathogens  
+- [c] Outbreaks usually provide a partial picture of all infections occurring in the population [@pires.etal2009]
       data completeness depends on the quality and coverage of the surveillance system
 	- outbreaks of severe disease, those caused by rare pathogens and those with a high attack rate have a higher change of being identified, thoroughly investigated and reported
 	- outbreaks of mild disease involving a few people and/or caused by less virulent pathogens are more likely to remain unascertained

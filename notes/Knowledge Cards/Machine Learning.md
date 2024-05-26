@@ -23,6 +23,7 @@ There is two main categories of machine learning:
 ### Support Vector Machine (SVM)
 ### Multinomial logistic regression (ML)
 multiclass classification algorithm
+
 ## Unsupervised Learning
 - using not labeled data
 
