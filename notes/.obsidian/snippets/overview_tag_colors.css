@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+/* Custom styles for Dataview tables */
+.dataview.table-view-table {
+    width: 100%;
+    margin: 1em 0;
+    font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dataview.table-view-table th, 
+.dataview.table-view-table td {
+    padding: 10px 15px;
+    text-align: left;
+    font-weight: 400; /* Make the text less bold */
+}
+
+.dataview.table-view-table tr:nth-child(even) {
+    background-color: #f4f4f4;
+}
+
+.dataview.table-view-table a {
+    color: #006400; /* Dark green for links */
+    text-decoration: none;
+    font-weight: 400; /* Ensure links are not bold */
+}
+
+.dataview.table-view-table a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+/* Custom tag styles */
+.dataview .tag {
+    display: inline-block;
+    padding: 2px 8px; /* Increased padding */
+    margin: 2px 4px; /* Increased margin for more distance */
+    border-radius: 12px; /* Rounded edges */
+    font-size: 0.85em;
+    font-weight: 600;
+    color: black; /* Black text color */
+}
+
+/* Specific tag color styles */
+.tag-relation {
+    background-color: #eae4dd; /* Light gray background */
+}
+
+.tag-entity {
+    background-color: #eae4dd; /* Light cyan background */
+}
+
+.tag-given-data {
+    background-color: #BAC8D3 !important; /* Nude mint background */
+}
+
+.tag-wanted-data {
+    background-color: #B2C9AB !important; /* Nude pink background */
+}
+
+.tag-pre-collectable-data {
+    background-color: #E1D5E7 !important; /* Nude lavender background */
+}
+
+.tag-supportive-data {
+    background-color: #FAD7AC !important; /* Nude coral background */
+}
+
+.tag-derived-data {
+    background-color: #FFF2CC !important; /* Nude coral background */
+}
+
+

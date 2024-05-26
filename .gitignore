@@ -1,7 +1,20 @@
 .DS_Store
-.obsidian
 .pandoc
-Overview.md
+
 diagram/.$Framework for Food Safety Investigations.drawio.bkp
+
 notes/Templates/
 notes/Literature/Annotation Colors.md
+notes/Overview/Overview loom.loom
+
+# Ignore everything in the .obsidian folder
+
+notes/.obsidian/*.json
+notes/.obsidian/plugins/*
+notes/.obsidian/snippets/*
+notes/.obsidian/themes/*
+
+# Do not ignore the specific snippet file
+!notes/.obsidian/snippets/overview_tag_colors.css
+
+

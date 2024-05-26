@@ -37,3 +37,12 @@ Wikilinks are used extensively in this repository for easy navigation and linkin
 ### 2.4. Use the Minimal Theme in Obsidian
 
 For the best experience, it is recommended to use the Minimal theme in Obsidian because the alternate checkbox styles are used for the advantages of and limitations, and are otherwise only visible as checked checkboxes.
+
+### 2.5. Use the custom css snippet “overview_tag_colors.css”
+
+To display colors in the Overview.md in accordance with the framework diagram:
+
+    1.	Save the snippet `overview_tag_colors.css` in your Obsidian snippets folder.
+    2.	Open Obsidian and go to Settings.
+    3.	Navigate to Appearance.
+    4.	Scroll down to the “CSS snippets” section and ensure that overview_tag_colors.css is enabled.
