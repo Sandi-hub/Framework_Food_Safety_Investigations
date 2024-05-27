@@ -1,7 +1,8 @@
 ---
 Type:
   - Relation
-Category: []
+Category:
+  - analytical epidemiological studies
 aliases:
   - case-control study
   - case-control studies

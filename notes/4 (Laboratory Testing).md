@@ -1,7 +1,7 @@
 ---
 Type:
   - Relation
-Category: 
+Category: []
 Linked_to_Framework?: true
 aliases:
   - laboratory testing

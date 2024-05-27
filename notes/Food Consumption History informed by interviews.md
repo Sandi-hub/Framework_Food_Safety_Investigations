@@ -16,6 +16,11 @@ There is different types of interviews depending on the stage of the outbreak. I
 	- time delay between exposure and follow-up interviews reduces accurate patient recall 
 	  @byrne.etal2016; @centersfordiseasecontrolandpreventioncdc2011
 	- respondent and interviewer biases in reporting of exposures may also lead to inaccurate reporting @byrne.etal2016 
-3. common consumption of bundled food (e.g. salsas, burritos, salads) 
+	- especially when the incubation period is long, e.g. for [[Listeria]] [Becker et al., 2021](https://doi.org/10.1007/s00003-021-01336-y)
+	- Morbidity and mortality contribute to limited patient recall, e.g. for [[Listeria]] [Becker et al., 2021](https://doi.org/10.1007/s00003-021-01336-y)
+1. common consumption of bundled food (e.g. salsas, burritos, salads) 
    secondary source @horn citing *McEntire, Jennifer, and Tejas Bhatt (2013). Pilot Projects for Improving Product Tracing along the Food Supply System–Final Report. Chicago, IL: Institute of Food Technologists (2013).*
 4. not available [[@schlaich.etal2020]]
+
+
+

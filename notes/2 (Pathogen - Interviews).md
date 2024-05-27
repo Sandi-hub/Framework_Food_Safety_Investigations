@@ -1,7 +1,7 @@
 ---
 Type:
   - Relation
-Category: 
+Category: []
 Linked_to_Framework?: true
 ---
 @worldhealthorganizationwho2008, p. 19 - 20
