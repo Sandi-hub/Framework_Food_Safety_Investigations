@@ -42,7 +42,7 @@ For the best experience, it is recommended to use the Minimal theme in Obsidian 
 
 To display colors in the Overview.md in accordance with the framework diagram:
 
-    1.	Save the snippet `overview_tag_colors.css` in your Obsidian snippets folder.
-    2.	Open Obsidian and go to Settings.
-    3.	Navigate to Appearance.
-    4.	Scroll down to the “CSS snippets” section and ensure that overview_tag_colors.css is enabled.
+1. Save the snippet `overview_tag_colors.css` in your Obsidian snippets folder.
+2. Open Obsidian and go to Settings.
+3. Navigate to Appearance.
+4. Scroll down to the “CSS snippets” section and ensure that overview_tag_colors.css is enabled.
